@@ -1,0 +1,2 @@
+# seminari
+GitHub Pages
